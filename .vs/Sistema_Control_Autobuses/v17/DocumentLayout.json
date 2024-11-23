@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9021026C-3A99-4CB1-8DEF-499FB19E1D1F}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\fseba\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\2024-c2\\programaci\u00F3n ii\\segundo parcial\\sistema_control_autobuses\\capapresentacion\\frmrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9021026C-3A99-4CB1-8DEF-499FB19E1D1F}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9021026C-3A99-4CB1-8DEF-499FB19E1D1F}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\fseba\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\2024-c2\\programaci\u00F3n ii\\segundo parcial\\sistema_control_autobuses\\capapresentacion\\frmchofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9021026C-3A99-4CB1-8DEF-499FB19E1D1F}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmchofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9021026C-3A99-4CB1-8DEF-499FB19E1D1F}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\fseba\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\2024-c2\\programaci\u00F3n ii\\segundo parcial\\sistema_control_autobuses\\capapresentacion\\frm_autobuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9021026C-3A99-4CB1-8DEF-499FB19E1D1F}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frm_autobuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9021026C-3A99-4CB1-8DEF-499FB19E1D1F}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\fseba\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\2024-c2\\programaci\u00F3n ii\\segundo parcial\\sistema_control_autobuses\\capapresentacion\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9021026C-3A99-4CB1-8DEF-499FB19E1D1F}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F482E05-B0E4-4A43-AF79-141C426B8788}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\fseba\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\2024-c2\\programaci\u00F3n ii\\segundo parcial\\sistema_control_autobuses\\capanegocio\\n_rutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F482E05-B0E4-4A43-AF79-141C426B8788}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_rutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F482E05-B0E4-4A43-AF79-141C426B8788}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\fseba\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\2024-c2\\programaci\u00F3n ii\\segundo parcial\\sistema_control_autobuses\\capanegocio\\n_choferes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F482E05-B0E4-4A43-AF79-141C426B8788}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_choferes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F482E05-B0E4-4A43-AF79-141C426B8788}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\fseba\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\2024-c2\\programaci\u00F3n ii\\segundo parcial\\sistema_control_autobuses\\capanegocio\\n_autobuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F482E05-B0E4-4A43-AF79-141C426B8788}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_autobuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1ECF9FB-7E22-4A35-9DDE-AAE29BBBFD08}|CapaDatos\\CapaDatos.csproj|c:\\users\\fseba\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\2024-c2\\programaci\u00F3n ii\\segundo parcial\\sistema_control_autobuses\\capadatos\\d_rutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1ECF9FB-7E22-4A35-9DDE-AAE29BBBFD08}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_rutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1ECF9FB-7E22-4A35-9DDE-AAE29BBBFD08}|CapaDatos\\CapaDatos.csproj|c:\\users\\fseba\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\2024-c2\\programaci\u00F3n ii\\segundo parcial\\sistema_control_autobuses\\capadatos\\d_autobuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1ECF9FB-7E22-4A35-9DDE-AAE29BBBFD08}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_autobuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9021026C-3A99-4CB1-8DEF-499FB19E1D1F}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9021026C-3A99-4CB1-8DEF-499FB19E1D1F}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83313804-E56A-473F-AAB4-BBF1B9CDADAD}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\fseba\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\2024-c2\\programaci\u00F3n ii\\segundo parcial\\sistema_control_autobuses\\capaentidad\\e_rutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83313804-E56A-473F-AAB4-BBF1B9CDADAD}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\e_rutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83313804-E56A-473F-AAB4-BBF1B9CDADAD}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\fseba\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\2024-c2\\programaci\u00F3n ii\\segundo parcial\\sistema_control_autobuses\\capaentidad\\e_choferes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83313804-E56A-473F-AAB4-BBF1B9CDADAD}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\e_choferes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83313804-E56A-473F-AAB4-BBF1B9CDADAD}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\fseba\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\2024-c2\\programaci\u00F3n ii\\segundo parcial\\sistema_control_autobuses\\capaentidad\\e_autobuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83313804-E56A-473F-AAB4-BBF1B9CDADAD}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\e_autobuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmRutas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaPresentacion\\frmRutas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmRutas.cs",
+              "ToolTip": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaPresentacion\\frmRutas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmRutas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:35:28.758Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmChofer.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaPresentacion\\frmChofer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmChofer.cs",
+              "ToolTip": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaPresentacion\\frmChofer.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmChofer.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:35:25.347Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_Autobuses.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaPresentacion\\Frm_Autobuses.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Frm_Autobuses.cs",
+              "ToolTip": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaPresentacion\\Frm_Autobuses.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Frm_Autobuses.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:35:18.93Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaPresentacion\\Main.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Main.cs",
+              "ToolTip": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaPresentacion\\Main.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Main.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:35:10.438Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "N_Rutas.cs",
+              "DocumentMoniker": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaNegocio\\N_Rutas.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\N_Rutas.cs",
+              "ToolTip": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaNegocio\\N_Rutas.cs",
+              "RelativeToolTip": "CapaNegocio\\N_Rutas.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:34:53.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "N_Choferes.cs",
+              "DocumentMoniker": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaNegocio\\N_Choferes.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\N_Choferes.cs",
+              "ToolTip": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaNegocio\\N_Choferes.cs",
+              "RelativeToolTip": "CapaNegocio\\N_Choferes.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:34:49.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "N_Autobuses.cs",
+              "DocumentMoniker": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaNegocio\\N_Autobuses.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\N_Autobuses.cs",
+              "ToolTip": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaNegocio\\N_Autobuses.cs",
+              "RelativeToolTip": "CapaNegocio\\N_Autobuses.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:34:31.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "D_rutas.cs",
+              "DocumentMoniker": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaDatos\\D_rutas.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_rutas.cs",
+              "ToolTip": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaDatos\\D_rutas.cs",
+              "RelativeToolTip": "CapaDatos\\D_rutas.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:34:15.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaPresentacion\\App.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
+              "ToolTip": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaPresentacion\\App.config",
+              "RelativeToolTip": "CapaPresentacion\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-10T01:58:52.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "D_Autobuses.cs",
+              "DocumentMoniker": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaDatos\\D_Autobuses.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Autobuses.cs",
+              "ToolTip": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaDatos\\D_Autobuses.cs",
+              "RelativeToolTip": "CapaDatos\\D_Autobuses.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:32:55.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "E_Rutas.cs",
+              "DocumentMoniker": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaEntidad\\E_Rutas.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\E_Rutas.cs",
+              "ToolTip": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaEntidad\\E_Rutas.cs",
+              "RelativeToolTip": "CapaEntidad\\E_Rutas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:32:45.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "E_Choferes.cs",
+              "DocumentMoniker": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaEntidad\\E_Choferes.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\E_Choferes.cs",
+              "ToolTip": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaEntidad\\E_Choferes.cs",
+              "RelativeToolTip": "CapaEntidad\\E_Choferes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:32:41.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "E_Autobuses.cs",
+              "DocumentMoniker": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaEntidad\\E_Autobuses.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\E_Autobuses.cs",
+              "ToolTip": "C:\\Users\\fseba\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\2024-C2\\Programaci\u00F3n II\\Segundo parcial\\Sistema_Control_Autobuses\\CapaEntidad\\E_Autobuses.cs",
+              "RelativeToolTip": "CapaEntidad\\E_Autobuses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:32:32.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
