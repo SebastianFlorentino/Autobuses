@@ -1,0 +1,6 @@
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C2\Programación II\Segundo parcial\Sistema_Control_Autobuses\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C2\Programación II\Segundo parcial\Sistema_Control_Autobuses\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C2\Programación II\Segundo parcial\Sistema_Control_Autobuses\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C2\Programación II\Segundo parcial\Sistema_Control_Autobuses\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C2\Programación II\Segundo parcial\Sistema_Control_Autobuses\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C2\Programación II\Segundo parcial\Sistema_Control_Autobuses\CapaEntidad\obj\Debug\CapaEntidad.pdb
